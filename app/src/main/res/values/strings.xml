@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">The Weather App</string>
     <string name="get_icons">Get Icons</string>
-    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawers</string>
     <string name="navigation_drawer_close">Close navigation drawers</string>
 
     <string name="button_download_images">Download Images</string>
